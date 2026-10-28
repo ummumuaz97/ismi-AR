@@ -40,3 +40,14 @@ Test tracking and audio on a physical phone before bulk printing.
 - Home sections: #episod-3 and #video-3
 
 Test image tracking and audio on a physical phone before bulk printing.
+
+## Episode 04 — Liqa (اللقاء)
+
+- AR: https://ummumuaz97.github.io/ismi-AR/ar-4.html
+- Target: imej liqa.jpg (full image, no crop)
+- Video: video 4 liqa.mp4
+- Compiled target: assets/liqa.mind
+- QR: assets/liqa-qr.png and assets/liqa-qr.svg
+- Home sections: #episod-4 and #video-4
+
+Test image tracking and audio on a physical phone before bulk printing.
