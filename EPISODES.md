@@ -18,3 +18,14 @@ Preserve the published episode URLs so printed QR codes remain valid. For each n
 ## Dependencies
 
 A-Frame 1.5.0 and MindAR 1.2.5 are loaded on demand from their published CDNs. Internet access is needed. No backend or build step is required. Pages serves the root of the main branch.
+
+## Episode 02 — Dirasah (الدراسة)
+
+- AR: https://ummumuaz97.github.io/ismi-AR/ar-2.html
+- Target: scene%20masuk%20pesawat.jpg (full image, no crop)
+- Video: video%20gabung%202dan%203%20dirasah.mp4
+- MindAR target: assets/dirasah.mind
+- QR: assets/dirasah-qr.png and assets/dirasah-qr.svg
+- Home-page sections: #episod-2 and #video-2
+
+Test tracking and audio on a physical phone before bulk printing.
