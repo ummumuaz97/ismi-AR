@@ -29,3 +29,14 @@ A-Frame 1.5.0 and MindAR 1.2.5 are loaded on demand from their published CDNs. I
 - Home-page sections: #episod-2 and #video-2
 
 Test tracking and audio on a physical phone before bulk printing.
+
+## Episode 03 — Libas (اللباس)
+
+- AR: https://ummumuaz97.github.io/ismi-AR/ar-3.html
+- Target: imej puji libas.jpg (full image, no crop)
+- Video: video scene libas.mp4
+- Compiled target: assets/libas.mind
+- QR: assets/libas-qr.png and assets/libas-qr.svg
+- Home sections: #episod-3 and #video-3
+
+Test image tracking and audio on a physical phone before bulk printing.
