@@ -51,3 +51,14 @@ Test image tracking and audio on a physical phone before bulk printing.
 - Home sections: #episod-4 and #video-4
 
 Test image tracking and audio on a physical phone before bulk printing.
+
+## Episode 05 — Raqm (الرقم)
+
+- AR: https://ummumuaz97.github.io/ismi-AR/ar-5.html
+- Target: Areej and Mimi enter the jet bridge.png (full image, no crop)
+- Video: video raqm.mp4
+- Compiled target: assets/raqm.mind
+- QR: assets/raqm-qr.png and assets/raqm-qr.svg
+- Home sections: #episod-5 and #video-5
+
+Test image tracking and audio on a physical phone before bulk printing.
